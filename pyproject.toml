@@ -1,0 +1,18 @@
+[project]
+name = "pipinstallable"
+version = "0.0.1"
+authors = [
+  { name="Matt Salomon", email="matt7.salomon@gmail.com" },
+]
+description = "Just showing I can make a package"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/matt7salomon/pipinstallable"
+Issues = "https://github.com/matt7salomon/pipinstallable/issues"

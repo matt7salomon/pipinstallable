@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: pipinstallable
+Version: 0.0.1
+Summary: Just showing I can make a package
+Author-email: Matt Salomon <matt7.salomon@gmail.com>
+Project-URL: Homepage, https://github.com/matt7salomon/pipinstallable
+Project-URL: Issues, https://github.com/matt7salomon/pipinstallable/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown

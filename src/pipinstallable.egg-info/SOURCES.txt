@@ -1,0 +1,8 @@
+pyproject.toml
+src/__init__.py
+src/Pipinstallable/__init__.py
+src/Pipinstallable/app.py
+src/pipinstallable.egg-info/PKG-INFO
+src/pipinstallable.egg-info/SOURCES.txt
+src/pipinstallable.egg-info/dependency_links.txt
+src/pipinstallable.egg-info/top_level.txt

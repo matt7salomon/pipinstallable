@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb5b9a9c-573a-490f-89e0-3d4ecd1c840e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2kO80TWWiKlrXrxw9rCmQYtuDw7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Pipinstallable" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb5b9a9c-573a-490f-89e0-3d4ecd1c840e" name="Default Changelist" comment="" />
+      <created>1723143040362</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723143040362</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="208" y="91" width="1071" height="702" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1723143818119">
+      <screen x="0" y="38" width="1728" height="1022" />
+    </state>
+    <state x="208" y="91" width="1071" height="702" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.38.1728.1022@0.38.1728.1022" timestamp="1723143818119" />
+    <state x="552" y="306" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1725235668851">
+      <screen x="0" y="38" width="1728" height="1022" />
+    </state>
+    <state x="552" y="306" key="#com.intellij.fileTypes.FileTypeChooser/0.38.1728.1022@0.38.1728.1022" timestamp="1725235668850" />
+    <state x="253" y="68" key="SettingsEditor" timestamp="1723143161372">
+      <screen x="0" y="38" width="1728" height="1022" />
+    </state>
+    <state x="253" y="68" key="SettingsEditor/0.38.1728.1022@0.38.1728.1022" timestamp="1723143161372" />
+    <state x="442" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1725168466698">
+      <screen x="0" y="38" width="1728" height="1022" />
+    </state>
+    <state x="442" y="261" key="com.intellij.ide.util.TipDialog/0.38.1728.1022@0.38.1728.1022" timestamp="1725168466698" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1723143657111">
+      <screen x="0" y="38" width="1728" height="1022" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.38.1728.1022@0.38.1728.1022" timestamp="1723143657111" />
+  </component>
+</project>
